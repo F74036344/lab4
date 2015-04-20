@@ -14,7 +14,7 @@ and the one for the second is if(integer,float)
 
 <Q2>
 The output of the program:
-<result acquired from my computer.(OS:Windows)>
+<result acquired from my computer.(OS:Windows)(64-bit)>
 1 4
 4 4
 4 4
@@ -28,6 +28,7 @@ The output of the program:
 Based on the result above:
 1.No matter the type of the variable is , the size of the pointer
 points to the variable is  unchanged.
-2.The size of the pointer may differ because of the OS. 
+2.The size of the pointer may differ
+(I've googled for it, but I still can't figure out why it differs.@@"). 
 
 
