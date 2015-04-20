@@ -12,4 +12,22 @@ So the identifier for the first function is PdRd(Pointerdouble,Referencedouble)
 and the one for the second is if(integer,float)
 
 
+<Q2>
+The output of the program:
+<result acquired from my computer.(OS:Windows)>
+1 4
+4 4
+4 4
+8 4
+<result acquired from the server pd2.imslab.org.(OS:Linux)>
+1 8
+4 8
+4 8
+8 8
+
+Based on the result above:
+1.No matter the type of the variable is , the size of the pointer
+points to the variable is  unchanged.
+2.The size of the pointer may differ because of the OS. 
+
 
